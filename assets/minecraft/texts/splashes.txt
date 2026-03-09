@@ -1,0 +1,2 @@
+The resourepack is made by Scriptforge.
+The resourepack uses Apache2.0 License.
